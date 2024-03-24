@@ -1,5 +1,5 @@
 document.querySelector('#app').innerHTML = `
   <div>
-    <h1>To-Do</h1>
+    <h1>Vanilla JavaScript</h1>
   </div>
 `
